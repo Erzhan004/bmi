@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(to right,rgb(29, 203, 225),rgb(193, 7, 193))
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: auto;
+}
+
+th, td {
+    margin-top: auto;
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
